@@ -43,5 +43,3 @@ function playRound(player1, player2) {
         }
     }
 }
-
-game()
